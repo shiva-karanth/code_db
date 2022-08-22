@@ -1,3 +1,4 @@
+// clock function in c
 #include <stdio.h>
 #include <time.h>
 
