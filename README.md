@@ -1,3 +1,3 @@
 # code_db
 
-##this contains the code which **i have practiced**
+## this contains the code which **i have practiced**
