@@ -1,3 +1,4 @@
+// sample recursion just for fun
 import java.util.Scanner;
 public class Main
 {
