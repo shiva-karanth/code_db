@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    System.out.println("enter the number to find sum of natural numbers");
+	    System.out.print("enter the number to find sum of natural numbers");
 	    Scanner sc = new Scanner(System.in);
 	    int n=sc.nextInt();
 	    int x=sum(n);
