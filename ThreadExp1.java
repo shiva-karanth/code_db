@@ -38,3 +38,9 @@ public class Main
             obj2.start();
 	}
 }
+
+// Thread.sleep(x) waits for x miliseconds
+// Run is internal method of thread
+// to call run method we must use start method in main
+// every class should be extended with class thread
+
